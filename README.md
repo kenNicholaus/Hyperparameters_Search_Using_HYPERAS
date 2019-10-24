@@ -1,6 +1,6 @@
 # Hyperparameters_Search_Using_HYPERAS
 
-### To use HYPERAS to search for hyperparameters
+### Use HYPERAS to search for hyperparameters
 
 Test Model output:
 Best performing model chosen hyper-parameters:
